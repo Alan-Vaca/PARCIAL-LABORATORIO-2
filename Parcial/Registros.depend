@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1599868726 source:c:\users\alan-\desktop\utn\laboratorio\tp1\registros\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+
+1600389085 source:d:\users\alan-\documents\github\tp_registrosadriel_alan\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"includes/prototipos.h"
+	"includes/visuales.h"
+	"includes/menues.h"
+	"includes/usuarios.h"
+	"includes/entrenamiento.h"
+
+1599871163 d:\users\alan-\documents\github\tp_registrosadriel_alan\prototipos.h
+
+1599871228 d:\users\alan-\documents\github\tp_registrosadriel_alan\usuarios.h
+
+1600389272 d:\users\alan-\documents\github\tp_registrosadriel_alan\includes\prototipos.h
+
+1600388908 d:\users\alan-\documents\github\tp_registrosadriel_alan\includes\visuales.h
+
+1600389223 d:\users\alan-\documents\github\tp_registrosadriel_alan\includes\menues.h
+
+1600388973 d:\users\alan-\documents\github\tp_registrosadriel_alan\includes\usuarios.h
+
+1600306692 d:\users\alan-\documents\github\tp_registrosadriel_alan\includes\entrenamiento.h
+
+1600730886 source:d:\users\alan-\documents\github\tp-registros\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"includes/prototipos.h"
+	"includes/visuales.h"
+	"includes/menues.h"
+	"includes/usuarios.h"
+	"includes/entrenamiento.h"
+	"includes/configuracion.h"
+	"includes/parcial.h"
+
+1600734838 d:\users\alan-\documents\github\tp-registros\includes\prototipos.h
+
+1600557334 d:\users\alan-\documents\github\tp-registros\includes\visuales.h
+
+1600734909 d:\users\alan-\documents\github\tp-registros\includes\menues.h
+
+1600736859 d:\users\alan-\documents\github\tp-registros\includes\usuarios.h
+
+1600732217 d:\users\alan-\documents\github\tp-registros\includes\entrenamiento.h
+
+1600737434 d:\users\alan-\documents\github\tp-registros\includes\configuracion.h
+
+1600729255 d:\users\alan-\documents\github\tp-registros\includes\parcial.h
+
+1600816738 source:d:\users\alan-\documents\github\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"includes/prototipos.h"
+	"includes/visuales.h"
+	"includes/menues.h"
+	"includes/usuarios.h"
+	"includes/entrenamiento.h"
+	"includes/configuracion.h"
+	"includes/parcial.h"
+
+1600812768 d:\users\alan-\documents\github\includes\prototipos.h
+
+1600557334 d:\users\alan-\documents\github\includes\visuales.h
+
+1600734910 d:\users\alan-\documents\github\includes\menues.h
+
+1600818358 d:\users\alan-\documents\github\includes\usuarios.h
+
+1600825260 d:\users\alan-\documents\github\includes\entrenamiento.h
+
+1600826497 d:\users\alan-\documents\github\includes\configuracion.h
+
+1600729256 d:\users\alan-\documents\github\includes\parcial.h
+
+1600976680 source:d:\users\alan-\documents\github\parcial 1 registros\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"includes/prototipos.h"
+	"includes/visuales.h"
+	"includes/menues.h"
+	"includes/usuarios.h"
+	"includes/entrenamiento.h"
+	"includes/configuracion.h"
+	"includes/modeloParcial.h"
+
+1600979317 d:\users\alan-\documents\github\parcial 1 registros\includes\prototipos.h
+
+1600963430 d:\users\alan-\documents\github\parcial 1 registros\includes\visuales.h
+
+1600980788 d:\users\alan-\documents\github\parcial 1 registros\includes\menues.h
+
+1600976095 d:\users\alan-\documents\github\parcial 1 registros\includes\usuarios.h
+
+1600981928 d:\users\alan-\documents\github\parcial 1 registros\includes\entrenamiento.h
+
+1600976358 d:\users\alan-\documents\github\parcial 1 registros\includes\configuracion.h
+
+1600963430 d:\users\alan-\documents\github\parcial 1 registros\includes\parcial.h
+
+1600982395 d:\users\alan-\documents\github\parcial 1 registros\includes\modeloparcial.h
+
+1600995147 source:d:\users\alan-\documents\github\parcial\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"includes/prototipos.h"
+	"includes/visuales.h"
+	"includes/menues.h"
+	"includes/usuarios.h"
+	"includes/entrenamiento.h"
+	"includes/configuracion.h"
+	"includes/parcial.h"
+
+1600994820 d:\users\alan-\documents\github\parcial\includes\prototipos.h
+
+1600963430 d:\users\alan-\documents\github\parcial\includes\visuales.h
+
+1600991254 d:\users\alan-\documents\github\parcial\includes\menues.h
+
+1600988878 d:\users\alan-\documents\github\parcial\includes\usuarios.h
+
+1600990546 d:\users\alan-\documents\github\parcial\includes\entrenamiento.h
+
+1600983394 d:\users\alan-\documents\github\parcial\includes\configuracion.h
+
+1600995438 d:\users\alan-\documents\github\parcial\includes\parcial.h
+
